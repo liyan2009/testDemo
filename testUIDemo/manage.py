@@ -13,7 +13,7 @@ import unittest
 
 current_path=os.getcwd()
 case_path=os.path.join(current_path,"testCase")
-report_path=os.path.join("C:\\Users\\liyan\\PycharmProjects\\testUIDemo","testReport")
+report_path=os.path.join(case_path,"testReport")
 
 now=time.strftime("%Y-%m-%d-%H%M%S",time.localtime(time.time()))
 report_title=u"测试报告"+now+".html"
