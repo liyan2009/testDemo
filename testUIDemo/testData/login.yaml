@@ -1,0 +1,19 @@
+case1:
+ username1: "13469968124"
+ pwd1: ""
+ errorText1: "密码不能为空"
+
+case2:
+ username2: ""
+ pwd2: "12345678"
+ errorText2: "手机号码不能为空"
+
+case3:
+ username3: ""
+ pwd3: ""
+ errorText3: "账号或密码错误"
+
+case4:
+ username4: "13521970585"
+ pwd4: "1234567"
+ errorText4: ""
